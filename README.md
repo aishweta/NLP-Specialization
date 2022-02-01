@@ -14,3 +14,6 @@ NLP
 
 **4. Learn NLP Libraries:**
 - Kaggle Notebook: https://www.kaggle.com/shwetagargade/learn-nlp-libraries
+
+**5. Recommendation Systems:**
+- Medium Blog: https://medium.com/@shwetagargade216/recommendation-systems-6be5c12e2aa5 
