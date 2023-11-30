@@ -2,7 +2,7 @@
 Sharing detailed list of NLP topics to get in-depth knowledge; 
 
 ### 1. NLP kick-start:
-- Text cleaning process, NLTK and Spacy toolkit.
+- Text cleaning process, RegEx, NLTK and Spacy toolkit.
 - Feature extraction: tokenization, bag of words, tf-idf, word embeddings.
 - Basic NLP tasks: Sentiment Analysis, Text Classification, Topic modelling, Named entity recognition. (This can be solved with basic NLP and ML knowledge only)
 
