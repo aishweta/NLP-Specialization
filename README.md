@@ -25,7 +25,7 @@ CNN, RNN, LSTM, GRU models, Please consider Seq2Seq(Encoder-Decoder) models, lat
 - Parameter Efficient Fine-tuning (quite effective when we've computation power limitations)
 
 ### NLP Tasks and Materials: (In-Progress)
-**1. Kaggle competition : Feedback Prize - Evaluating Student Writing**
+**1. In-Dept Text Classification - Kaggle competition : Feedback Prize - Evaluating Student Writing**
 - Kaggle Notebook: https://www.kaggle.com/shwetagargade/detailed-understanding-of-text-classification
 
 **2. Tweeter Scrapping:**
